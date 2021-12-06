@@ -1,0 +1,11 @@
+#btnSorsol {
+    -fx-background-color: silver;
+    -fx-border-color: black;
+    -fx-border-width: 3;
+    -fx-border-style: solid;
+    -fx-font-size:15;
+}
+#eppenSzamol{
+    -fx-font-size:20;
+    -fx-font-weight:bold;
+}
